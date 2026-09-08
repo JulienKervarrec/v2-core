@@ -1,3 +1,7 @@
+## Parcours français
+
+Explications chapitre par chapitre des contrats cœur, dans [docs/fr](docs/fr/). Documentation uniquement : rien n'a été compilé ni exécuté pour la rédiger.
+
 # Uniswap V2
 
 [![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
